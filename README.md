@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Samreena Qamar
 
-### Aspiring Banking GRC Analyst | Learning Cybersecurity, Risk Management & ISO 27001 • NIST • PHP • MySQL • AI
+### Aspiring Banking GRC Analyst | Learning Cybersecurity, Risk Management & ISO 27001 • NIST • PHP  • AI
 
 *"Learning in Public • Building One Project at a Time 🚀"*
 
