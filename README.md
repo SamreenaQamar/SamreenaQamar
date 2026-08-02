@@ -77,36 +77,13 @@ Currently, I'm building an **AI Banking GRC Platform for Pakistani Banks** while
 
 # 📈 Learning Roadmap
 
-```
-BSIT ✅
-   │
-   ▼
-Cybersecurity
-   │
-   ▼
-Governance, Risk & Compliance (GRC)
-   │
-   ▼
-ISO 27001 & NIST
-   │
-   ▼
-AI Banking GRC Platform
-   │
-   ▼
-Graduate GRC Analyst
-```
-
 ---
 
 # 🤝 Connect With Me
 
-💼 **LinkedIn**
+💼 **LinkedIn** https://linkedin.com/in/samreena-developer
 
-https://linkedin.com/in/samreena-developer
-
-📧 **Email**
-
-samreen.90.qamar@gmail.com
+📧 **Email** samreen.90.qamar@gmail.com
 
 ---
 
