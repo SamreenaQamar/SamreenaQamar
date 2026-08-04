@@ -101,9 +101,7 @@ Modern Real Estate Platform for Pakistan
 `HTML5` `CSS3` `Bootstrap`
 `JavaScript` `PHP` `MySQL`
 
-<br>
-
-<img src="https://img.shields.io/badge/Completed-28A745?style=for-the-badge"/>
+🟢 Completed
 
 </td>
 
@@ -123,9 +121,7 @@ Complete Pharmacy Management Solution
 `PHP` `MySQL`
 `Bootstrap` `JavaScript`
 
-<br>
-
-<img src="https://img.shields.io/badge/Completed-28A745?style=for-the-badge"/>
+🟢 Completed
 
 </td>
 
@@ -145,9 +141,7 @@ Currently Under Development
 `PHP` `MySQL`
 `JavaScript` `AI`
 
-<br>
-
-<img src="https://img.shields.io/badge/In_Progress-FF9800?style=for-the-badge"/>
+🟠 In Progress
 
 </td>
 
@@ -176,34 +170,6 @@ Currently Under Development
 - PHP Advanced Concepts
 - MySQL Optimization
 - Secure Web Development
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SamreenaQamar&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SamreenaQamar&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamreenaQamar&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SamreenaQamar&theme=algolia&no-frame=true&margin-w=15"/>
-
-</p>
 
 ---
 
