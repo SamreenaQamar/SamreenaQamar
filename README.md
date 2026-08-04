@@ -2,114 +2,60 @@
 
 # Hi 👋 I'm Samreena Qamar
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=850&lines=Aspiring+Banking+GRC+Analyst;Cybersecurity+Learner;ISO+27001+%7C+NIST+Framework;PHP+%7C+MySQL+Developer;Artificial+Intelligence+Enthusiast;Building+Real+World+Projects" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=850&lines=Aspiring+Banking+GRC+Analyst;Cybersecurity+Learner;ISO+27001+%7C+NIST+Framework;PHP+%7C+MySQL+Developer;Building+AI+Powered+Projects)](https://git.io/typing-svg)
 
-### 🏦 Banking GRC • 🔐 Cybersecurity • 🤖 AI • 💻 PHP • 🗄️ MySQL
+<p align="center">
+<a href="https://linkedin.com/in/samreena-developer">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=SamreenaQamar&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<a href="https://github.com/SamreenaQamar">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<img src="https://img.shields.io/badge/Multan,%20Pakistan-E91E63?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+
+</p>
 
 </div>
 
 ---
 
-# 👩‍💻 About Me
+# 👋 About Me
 
-🎓 BS Information Technology Student
+```yaml
+name: Samreena Qamar
+education: BS Information Technology — BZU Multan
+role: Aspiring Banking GRC Analyst
+goal: Banking GRC & Cybersecurity Professional 🚀
+location: Multan, Pakistan
 
-🔐 Passionate about **Banking Governance, Risk & Compliance (GRC)**, **Cybersecurity**, and **Artificial Intelligence**.
+currently_building:
+  - AI Banking GRC Platform
 
-💙 I enjoy building secure real-world applications and continuously improving my technical skills.
-
-🏦 My goal is to become a **Banking GRC & Cybersecurity Professional** and contribute to secure financial technologies.
-
----
-
-# 🚧 Currently Building
-
-## 🏦 AI Banking GRC Platform
-
-An AI-powered Banking Governance, Risk & Compliance platform for Pakistani Banks.
-
-### Features
-
-- 🤖 AI Compliance Copilot
-- 📑 SBP Circular Analyzer
-- 🛡 AML/CFT Compliance Checker
-- 📊 Basel III Risk Dashboard
-- 🔐 ISO 27001 Compliance
-- 🏦 NIST Cybersecurity Framework
-- ⚠ Risk Assessment
-- 📅 Compliance Calendar
-- 📁 Audit Evidence Manager
-- 📈 AI Policy Generator
+interests:
+  - Banking Governance, Risk & Compliance (GRC)
+  - Cybersecurity
+  - Artificial Intelligence
+```
 
 ---
 
-# 🚀 Featured Projects
+# 🛠️ Tech Stack
 
-## 🏡 EstateHub
-
-Modern Real Estate Platform
-
-### Features
-
-- Property Listing
-- Seller Dashboard
-- Property Search
-- Wishlist
-- Messaging
-- User Authentication
-- Responsive UI
-
-### Tech Stack
-
-HTML • CSS • Bootstrap • JavaScript • PHP • MySQL
-
----
-
-## 💊 Pharmacy Management System
-
-Complete Pharmacy Management Software
-
-### Features
-
-- Medicine Inventory
-- Billing System
-- Sales Management
-- Purchase Management
-- Supplier Management
-- Customer Records
-- Reports
-
-### Tech Stack
-
-PHP • MySQL • Bootstrap • JavaScript
-
----
-
-# 📚 Currently Learning
-
-- 🏦 Banking GRC
-- 🔐 Cybersecurity Fundamentals
-- 📘 ISO 27001
-- 🛡 NIST Cybersecurity Framework
-- ⚠ Risk Assessment
-- 🤖 Artificial Intelligence
-- 💻 PHP
-- 🗄️ MySQL
-- 🌐 Git & GitHub
-
----
-
-# 💻 Tech Stack
-
-## Languages
+### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql"/>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js"/>
 </p>
 
-## Tools
+### Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=php,mysql"/>
+</p>
+
+### Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
@@ -117,33 +63,55 @@ PHP • MySQL • Bootstrap • JavaScript
 
 ---
 
-# 📊 GitHub Analytics
+# 🚀 Projects
 
-<p align="center">
+### 🏡 EstateHub
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SamreenaQamar&show_icons=true&theme=tokyonight&hide_border=true"/>
+Modern Real Estate Platform for Pakistan
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SamreenaQamar&theme=tokyonight&hide_border=true"/>
+- Property Listing
+- Seller Dashboard
+- Wishlist
+- Property Search
 
-</p>
-
----
-
-# 📈 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamreenaQamar&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+**Tech:** HTML • CSS • Bootstrap • JavaScript • PHP • MySQL
 
 ---
 
-# 📊 Contribution Graph
+### 💊 Pharmacy Management System
+
+Complete Pharmacy Management Solution
+
+- Medicine Inventory
+- Billing
+- Sales
+- Reports
+
+**Tech:** PHP • MySQL • Bootstrap • JavaScript
+
+---
+
+# 🌱 Currently
+
+🏦 Building **AI Banking GRC Platform**
+
+🔐 Learning **ISO 27001 & NIST Cybersecurity Framework**
+
+🤖 Exploring **Artificial Intelligence for Banking Compliance**
+
+💻 Improving **PHP & MySQL Development Skills**
+
+📚 Building real-world projects and sharing my learning on GitHub
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SamreenaQamar&theme=tokyo-night&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SamreenaQamar&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SamreenaQamar&theme=tokyonight"/>
 
 </p>
 
@@ -153,41 +121,15 @@ PHP • MySQL • Bootstrap • JavaScript
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SamreenaQamar&theme=algolia&no-frame=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SamreenaQamar&theme=algolia&no-frame=true"/>
 
 </p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/SamreenaQamar/SamreenaQamar/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
-
-# 🎯 Goals 2026
-
-✅ Become Banking GRC Professional
-
-✅ Complete AI Banking GRC Platform
-
-✅ Master ISO 27001
-
-✅ Master NIST Cybersecurity Framework
-
-✅ Build Industry-Level Portfolio
-
-✅ Secure Remote Banking GRC Role
 
 ---
 
 # 🤝 Connect With Me
 
-<p>
+<p align="center">
 
 <a href="https://linkedin.com/in/samreena-developer">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -199,16 +141,8 @@ PHP • MySQL • Bootstrap • JavaScript
 
 </p>
 
-📍 Multan, Pakistan
-
----
-
 <div align="center">
 
-## 💙 Quote
-
-### "Small progress every day leads to big achievements."
-
-⭐ Thanks for visiting my profile!
+### ⭐ Thanks for visiting my profile!
 
 </div>
