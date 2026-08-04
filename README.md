@@ -185,7 +185,7 @@ Currently Under Development
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=SamreenaQamar&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SamreenaQamar&theme=tokyonight"/>
+<img height="170" src="https://streak-stats.demolab.com?user=SamreenaQamar&theme=tokyonight"/>
 
 </p>
 
@@ -201,10 +201,9 @@ Currently Under Development
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SamreenaQamar&theme=algolia&no-frame=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SamreenaQamar&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </p>
-
 ---
 
 # 🎯 Career Goal
