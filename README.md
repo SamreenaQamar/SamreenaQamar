@@ -1,10 +1,12 @@
 <div align="center">
 
-# Hi 👋, I'm Samreena Qamar
+# Hi 👋 I'm Samreena Qamar
 
-### Aspiring Banking GRC Analyst | Learning Cybersecurity, Risk Management & ISO 27001 • NIST • PHP  • AI
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=850&lines=Aspiring+Banking+GRC+Analyst;Cybersecurity+Learner;ISO+27001+%7C+NIST+Framework;PHP+%7C+MySQL+Developer;Artificial+Intelligence+Enthusiast;Building+Real+World+Projects" />
 
-*"Learning in Public • Building One Project at a Time 🚀"*
+### 🏦 Banking GRC • 🔐 Cybersecurity • 🤖 AI • 💻 PHP • 🗄️ MySQL
+
+<img src="https://komarev.com/ghpvc/?username=SamreenaQamar&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
@@ -12,85 +14,201 @@
 
 # 👩‍💻 About Me
 
-🎓 BSIT Graduate passionate about **Banking Governance, Risk & Compliance (GRC), Cybersecurity, and Artificial Intelligence.**
+🎓 BS Information Technology Student
 
-I believe in **learning by building real-world projects** instead of only completing courses.
+🔐 Passionate about **Banking Governance, Risk & Compliance (GRC)**, **Cybersecurity**, and **Artificial Intelligence**.
 
-Currently, I'm building an **AI Banking GRC Platform for Pakistani Banks** while documenting my learning journey on **GitHub** and **LinkedIn**.
+💙 I enjoy building secure real-world applications and continuously improving my technical skills.
 
----
-
-# 🚀 Current Learning
-
-- 🏦 Governance, Risk & Compliance (GRC)
-- 🔐 Cybersecurity Fundamentals
-- 📋 ISO 27001
-- 🛡️ NIST Cybersecurity Framework
-- 📊 Risk Assessment & Compliance
-- 💻 PHP
-- 🗄️ MySQL
-- 🌐 Git & GitHub
-- 🤖 Artificial Intelligence
+🏦 My goal is to become a **Banking GRC & Cybersecurity Professional** and contribute to secure financial technologies.
 
 ---
 
-# 🏦 Featured Project
+# 🚧 Currently Building
 
-## AI Banking GRC Platform for Pakistani Banks
+## 🏦 AI Banking GRC Platform
+
+An AI-powered Banking Governance, Risk & Compliance platform for Pakistani Banks.
 
 ### Features
 
-- ✅ AI Compliance Copilot
-- ✅ SBP Circular Analyzer
-- ✅ AML/CFT Compliance Checker
-- ✅ Basel III Risk Dashboard
-- ✅ AI Policy Generator
-- ✅ Audit Evidence Manager
-- ✅ Compliance Calendar
-- ✅ AI Risk Heatmap
-- ✅ Gap Analysis
-- ✅ AI Recommendation Engine
+- 🤖 AI Compliance Copilot
+- 📑 SBP Circular Analyzer
+- 🛡 AML/CFT Compliance Checker
+- 📊 Basel III Risk Dashboard
+- 🔐 ISO 27001 Compliance
+- 🏦 NIST Cybersecurity Framework
+- ⚠ Risk Assessment
+- 📅 Compliance Calendar
+- 📁 Audit Evidence Manager
+- 📈 AI Policy Generator
+
+---
+
+# 🚀 Featured Projects
+
+## 🏡 EstateHub
+
+Modern Real Estate Platform
+
+### Features
+
+- Property Listing
+- Seller Dashboard
+- Property Search
+- Wishlist
+- Messaging
+- User Authentication
+- Responsive UI
+
+### Tech Stack
+
+HTML • CSS • Bootstrap • JavaScript • PHP • MySQL
+
+---
+
+## 💊 Pharmacy Management System
+
+Complete Pharmacy Management Software
+
+### Features
+
+- Medicine Inventory
+- Billing System
+- Sales Management
+- Purchase Management
+- Supplier Management
+- Customer Records
+- Reports
+
+### Tech Stack
+
+PHP • MySQL • Bootstrap • JavaScript
+
+---
+
+# 📚 Currently Learning
+
+- 🏦 Banking GRC
+- 🔐 Cybersecurity Fundamentals
+- 📘 ISO 27001
+- 🛡 NIST Cybersecurity Framework
+- ⚠ Risk Assessment
+- 🤖 Artificial Intelligence
+- 💻 PHP
+- 🗄️ MySQL
+- 🌐 Git & GitHub
 
 ---
 
 # 💻 Tech Stack
 
-| Languages | Backend | Database | Tools | Learning |
-|------------|----------|----------|--------|-----------|
-| PHP | PHP | MySQL | Git | ISO 27001 |
-| HTML5 | JavaScript | SQL | GitHub | NIST |
-| CSS3 | Bootstrap | | VS Code | GRC |
-| | AI Integration | | XAMPP | Cybersecurity |
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql"/>
+</p>
+
+## Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
+</p>
 
 ---
 
-# 🎯 2026 Goals
+# 📊 GitHub Analytics
 
-- 🎯 Become a Banking GRC Professional
-- 🎯 Complete AI Banking GRC Platform
-- 🎯 Build an Industry-Level Portfolio
-- 🎯 Master ISO 27001 & NIST
-- 🎯 Share My Learning Journey
-- 🎯 Secure a Banking GRC Graduate Role
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SamreenaQamar&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SamreenaQamar&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-# 📈 Learning Roadmap
+# 📈 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamreenaQamar&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SamreenaQamar&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SamreenaQamar&theme=algolia&no-frame=true&margin-w=10"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/SamreenaQamar/SamreenaQamar/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 🎯 Goals 2026
+
+✅ Become Banking GRC Professional
+
+✅ Complete AI Banking GRC Platform
+
+✅ Master ISO 27001
+
+✅ Master NIST Cybersecurity Framework
+
+✅ Build Industry-Level Portfolio
+
+✅ Secure Remote Banking GRC Role
 
 ---
 
 # 🤝 Connect With Me
 
-💼 **LinkedIn** https://linkedin.com/in/samreena-developer
+<p>
 
-📧 **Email** samreen.90.qamar@gmail.com
+<a href="https://linkedin.com/in/samreena-developer">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:samreen.90.qamar@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+📍 Multan, Pakistan
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+## 💙 Quote
 
-**"Small progress every day leads to big achievements."**
+### "Small progress every day leads to big achievements."
+
+⭐ Thanks for visiting my profile!
 
 </div>
