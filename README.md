@@ -157,29 +157,6 @@ Currently Under Development
 
 <td width="50%">
 
-### 🚧 Coming Soon
-
-Future Projects
-
-- Cybersecurity Projects
-- Banking Compliance Tools
-- AI Applications
-- Portfolio Projects
-
-**Status**
-
-`Coming Soon`
-
-<br>
-
-<img src="https://img.shields.io/badge/Coming_Soon-1E90FF?style=for-the-badge"/>
-
-</td>
-
-</tr>
-
-</table>
-
 ---
 
 # 🌱 Current Learning Journey
