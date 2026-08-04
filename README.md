@@ -85,7 +85,7 @@ location:
 <table>
 <tr>
 
-<td width="33%">
+<td width="33%" valign="top">
 
 ### 🏡 EstateHub
 
@@ -107,7 +107,7 @@ Modern Real Estate Platform for Pakistan
 
 </td>
 
-<td width="33%">
+<td width="33%" valign="top">
 
 ### 💊 Pharmacy Management System
 
@@ -118,6 +118,41 @@ Complete Pharmacy Management Solution
 - Sales Management
 - Reports
 
+**Tech Stack**
+
+`PHP` `MySQL`
+`Bootstrap` `JavaScript`
+
+<br>
+
+<img src="https://img.shields.io/badge/Completed-28A745?style=for-the-badge"/>
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🏦 AI Banking GRC Platform
+
+Currently Under Development
+
+- Risk Assessment
+- Compliance Dashboard
+- ISO 27001 Controls
+- AI Recommendations
+
+**Tech Stack**
+
+`PHP` `MySQL`
+`JavaScript` `AI`
+
+<br>
+
+<img src="https://img.shields.io/badge/In_Progress-FF9800?style=for-the-badge"/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
